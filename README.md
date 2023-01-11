@@ -3,17 +3,9 @@
 <img src="https://cdn.worldvectorlogo.com/logos/antofagasta-minerals.svg" width="150" height="150">
 
 **Equipo**
-
-|                 | Cargo                                   |
-| :----------:    | :----------:                            |
-| Mauricio Rojas  | Metalurgista Senior                     |
-| Matías Thayer   | Consultor Analítica Avazanda            | 
-| Carlos Prades   | Ingeniero Experto Analítica Avanzada    |
-| Ramón Aguirre   | Ingeniero Senior en Ciencia de Datos    |
-| Matías Castro   | Ingeniero en Aprendizaje Computacional  |
-
 ---
 - **Superintendencia de Metalurgia** - Minera Antucoya
+- **Superintendencia de Excelencia Operacional** - Minera Antucoya
 - **Unidad de Analítica Avanzada** - Vicepresidencia de Desarrollo - Antofagasta Minerals
 ---
 ## Introducción
