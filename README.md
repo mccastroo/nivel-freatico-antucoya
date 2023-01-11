@@ -15,7 +15,7 @@ En este repositorio se encuentran los archivos para el flujo de datos del proyec
 ---
 Se consideran 3 fuente de datos:
 
-  - Sistema de Despacho (Jigsaw) - Minera Antucoya
-  - Torre de Muestreo - Minera Antucoya
-  - Reportes Nivel Freatico - Minera Antucoya
+  - Sistema de Despacho (Jigsaw)
+  - Torre de Muestreo
+  - Reportes Nivel Freatico
 ---
