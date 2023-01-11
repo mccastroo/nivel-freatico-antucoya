@@ -2,6 +2,8 @@
 
 <img src="https://cdn.worldvectorlogo.com/logos/antofagasta-minerals.svg" width="150" height="150">
 
+**Equipo**
+
 |                 | Cargo                                   |
 | :----------:    | :----------:                            |
 | Mauricio Rojas  | Metalurgista Senior                     |
@@ -10,7 +12,6 @@
 | Ramón Aguirre   | Ingeniero Senior en Ciencia de Datos    |
 | Matías Castro   | Ingeniero en Aprendizaje Computacional  |
 
-**Equipo**
 ---
 - **Superintendencia de Metalurgia** - Minera Antucoya
 - **Unidad de Analítica Avanzada** - Vicepresidencia de Desarrollo - Antofagasta Minerals
